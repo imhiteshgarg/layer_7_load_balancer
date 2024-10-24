@@ -42,4 +42,4 @@ To check if HAProxy server is running on port 5009:
  lsof -i :5009 -P
 ```
 
-To kill the HAProxy server --> kill <PID> of HAProxy process from above command
+To kill the HAProxy server --> kill PID of HAProxy process from above command
